@@ -1,4 +1,4 @@
-# Deploy a sample React app using AWS Amplify
+# Deploy a React app using AWS Amplify
 
 ![](./images/Screenshot%202025-04-14%20172327.png)
 
