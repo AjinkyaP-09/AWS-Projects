@@ -40,20 +40,20 @@ If this is your **first time using Elastic Beanstalk**, AWS will usually **auto-
 ![](./images/Screenshot%202025-04-15%20144929.png)
 
 ---
-### 4. Set up networking, database and tags
+### 3. Set up networking, database and tags
 - Select default VPC.
 - In instance settings select two or more subnets.
 - Keep other settings as they are and skip to review page.
 
 ![](./images/Screenshot%202025-04-15%20145202.png) 
 
-### 5. Launch the Environment
+### 4. Launch the Environment
 - Click submit on review page and wait for resources to be provisioned.
 - This may take a few minutes.
 
 ---
 
-### ✅ Done!
+### 5. Done!
 Once the environment is green and healthy, open the provided Beanstalk URL to view your Node.js app running live.
 
 ![](./images/Screenshot%202025-04-15%20145629.png) 
