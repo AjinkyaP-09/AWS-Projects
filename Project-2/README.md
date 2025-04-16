@@ -1,8 +1,3 @@
-# Project-2: URL Shortner
+# Project-2: Launch a node.js application on Beanstalk
 
-## Project Overview
-
-| Feature | Description |
-| Stack | API Gateway + Lambda + DynamoDB + S3 |
-| Purpose | Accept long URLs, generate short codes, store in DynamoDB, and redirect using Lambda |
-| ------ | -------- |
+## AWS Elastik Beanstalk
