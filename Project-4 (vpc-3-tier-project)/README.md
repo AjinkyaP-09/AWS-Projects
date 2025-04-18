@@ -37,7 +37,7 @@ The setup is fully hosted within a custom VPC using only **public subnets** for 
 ## Output
 
 ![](Screenshot%202025-04-18%20112942.png)
-Submit to view image and submission message.
+### Submit to view image and submission message.
 ![](Screenshot%202025-04-18%20113021.png)
 
 ## Author
