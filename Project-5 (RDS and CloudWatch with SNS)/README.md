@@ -17,13 +17,13 @@ This project demonstrates how to monitor an Amazon RDS (MySQL) instance using Am
 ## 🧱 Architecture
 
 ![Architecture](./architecture.png)
-[RDS+CloudWatch Project](./RDS+CloudWatch%20Project.docx)
 
 ---
 
 ## 🪜 Step-by-Step Setup
 
-Refer the document to see step by step setup and output.
+Refer the document to see step by step setup and output=>
+[RDS+CloudWatch Project](./RDS+CloudWatch%20Project.docx)
 
 ## 🎯 What I Learned
 
