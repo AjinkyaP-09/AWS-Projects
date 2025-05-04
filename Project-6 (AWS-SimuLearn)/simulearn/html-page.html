@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon EC2 Status</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+        html {
+            position: relative;
+            overflow-x: hidden !important;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            color: #324e63;
+        }
+
+        .wrapper {
+            width: 100%;
+            height: auto;
+            min-height: 90vh;
+            padding: 100px 20px 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .instance-card {
+            width: 100%;
+            min-height: 380px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 12px 12px 2px 1px rgba(13, 28, 39, 0.4);
+            background: #fff;
+            border-radius: 15px;
+            border: thin groove #9c83ff;
+            position: relative;
+        }
+
+        .instance-card__cnt {
+            margin-top: 35px;
+            text-align: center;
+            padding: 0 20px 40px;
+            transition: all .3s;
+        }
+
+        .instance-card__name {
+            font-weight: 700;
+            font-size: 24px;
+            color: #6944ff;
+            margin-bottom: 15px;
+        }
+
+        .instance-card-inf__item {
+            padding: 10px 35px;
+            min-width: 150px;
+        }
+
+        .instance-card-inf__title {
+            font-weight: 700;
+            font-size: 27px;
+            color: #324e63;
+        }
+
+        .instance-card-inf__txt {
+            font-weight: 500;
+            margin-top: 7px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="instance-card">
+            <div class="instance-card__cnt">
+                <div class="instance-card__name">Your EC2 Instance is running!</div>
+                <div class="instance-card-inf">
+                    <div class="instance-card-inf__item">
+                        <div class="instance-card-inf__txt">Instance Id</div>
+                        <div class="instance-card-inf__title">i-0abcdef1234567890</div>
+                    </div>
+                    <div class="instance-card-inf__item">
+                        <div class="instance-card-inf__txt">Instance Type</div>
+                        <div class="instance-card-inf__title">t2.micro</div>
+                    </div>
+                    <div class="instance-card-inf__item">
+                        <div class="instance-card-inf__txt">Availability Zone</div>
+                        <div class="instance-card-inf__title">us-east-1a</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
