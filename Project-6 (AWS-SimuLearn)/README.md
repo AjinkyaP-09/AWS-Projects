@@ -20,10 +20,10 @@ This SimuLearn experience provided a guided, hands-on introduction to core AWS s
 
 1. Identify the architecture in first step by Scripted format or AI chat with customer.
 2. Learn the theorotical part.
-3. Start next step and download the user-data file looking something like [](./simulearn/user-data.txt) on desktop and upload while launching.
-4. Launch an instance along learning step with steps mentioned in that. It shows output like this html page [](./simulearn/html-page.html).
-5. In DIY section launch another instance as per mentioned in task objective.
-6. Validate the answer.
+3. Start next step and download the user-data file looking something like [user-data.txt](./simulearn/user-data.txt) on desktop and upload while launching the instances.
+4. Launch an instance along learning step with steps mentioned in that. It shows output like this html page [html-page.html](./simulearn/html-page.html).
+5. In DIY section launch another instance as per mentioned in task objective. Make sure this instance is launched in different availability zone.
+6. Validate the answer by entering both the instance IDs.
    ![](./simulearn/Screenshot%202025-05-04%20151930.png)
 7. Submit the task and a completion window will appear like this:
    ![](./simulearn/CloudFirstSteps.png)
