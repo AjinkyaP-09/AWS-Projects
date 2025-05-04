@@ -1,6 +1,6 @@
 # AWS SimuLearn: Cloud First Steps – Task Completion
 
-I have successfully completed the **AWS SimuLearn Cloud First Steps** task available at [AWS Skill Builder](https://explore.skillbuilder.aws/learn/courses/20232/aws-simulearn-cloud-first-steps).
+I have successfully completed the **AWS SimuLearn Cloud First Steps** task available at [AWS SimuLearn Cloud First Steps AWS Skill Builder](https://explore.skillbuilder.aws/learn/courses/20232/aws-simulearn-cloud-first-steps).
 
 ## 📘 Course Overview
 
